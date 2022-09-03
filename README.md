@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://cnliubx.github.io/EatGua/"><img src="https://github.com/CNLiubx/EatGua/tree/main/static/image/ClickBefore.png?raw=true" width="250" height="250" alt="EatKano"></a>
+  <a href="https://cnliubx.github.io/EatGua/"><img src="https://github.com/CNLiubx/EatGua/tree/main/static/image/ClickBefore.png?raw=true" width="250" height="250" alt="EatGua"></a>
 </p>
 <div align="center">
 
-# EatKano
+# EatGua
 
 _🍉 网页小游戏 🍉_
 
