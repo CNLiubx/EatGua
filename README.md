@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cnliubx.github.io/EatGua/"><img src="https://github.com/CNLiubx/EatGua/tree/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://cnliubx.github.io/EatGua/"><img src="https://github.com/CNLiubx/EatGua/tree/main/static/image/ClickBefore.png?raw=true" width="250" height="250" alt="EatKano"></a>
 </p>
 <div align="center">
 
@@ -21,7 +21,7 @@ _🍉 网页小游戏🍉_
 |
 [二创作者B站](https://space.bilibili.com/1400417714)
 |
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[Github Pages](https://cnliubx.github.io/EatGua/)
 
 ## 可选功能
 
