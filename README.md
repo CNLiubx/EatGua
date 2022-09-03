@@ -50,11 +50,10 @@ _🍉 网页小游戏 🍉_
 
    ```json
    {
-     "game-title": "新概念音游",
-     "game-intro1": "从最底下的开始",
-     "game-intro2": "看你能得多少分",
-     "text-level-1": "试着好好练一下?",
-     "text-level-2": "TCL",
+     "game-title": "瓜瓜音游",
+     "game-intro1": "从最底下瓜瓜的开始",
+     "game-intro2": "看你能吃掉多少瓜瓜",
+     "text-level-2": "TZL",
      "text-level-3": "TQL",
      "text-level-4": "您",
      "text-level-5": "人?"
@@ -77,11 +76,11 @@ _🍉 网页小游戏 🍉_
 
 按照这些步骤来在你的服务器上配置排行榜的数据库
 
-1. 创建数据库并且执行提供的脚本(这里用`kano`作为数据库名)
+1. 创建数据库并且执行提供的脚本(这里用`gua`作为数据库名)
    ```sql
-   CREATE DATABASE kano DEFAULT CHARSET=utf8;
-   USE kano;
-   SOURCE kano.sql;
+   CREATE DATABASE gua DEFAULT CHARSET=utf8;
+   USE gua;
+   SOURCE gua.sql;
    ```
 
 2. 更改有数据库信息的`conn.php`为你的数据库配置
@@ -89,7 +88,7 @@ _🍉 网页小游戏 🍉_
    ```php
    <?php
    // 把这里改为你的配置
-   $link = new mysqli('localhost','NAME','PASSWORD','kano');
+   $link = new mysqli('localhost','NAME','PASSWORD','gua');
    mysqli_set_charset($link, 'utf8');
    if ($link->connect_error) {
        die("Failed to connect: " . $conn->connect_error);
@@ -101,5 +100,5 @@ _🍉 网页小游戏 🍉_
 ## 其它事项
 
 点下star吧~ 欢迎pr代码
-更要支持原创作者!
+支持原作者!
 
